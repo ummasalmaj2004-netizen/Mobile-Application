@@ -1,0 +1,20 @@
+# Reflection - Unit 3: Display Lists and Use Material Design
+
+## What I Learned
+- How to use data classes, functions, and collections in Kotlin.
+- How to simulate scrollable lists and add click listeners.
+- The principles of Material Design: colors, shapes, typography, and accessibility.
+
+## Challenges
+- Understanding how lists connect to UI components in Android.
+- Translating Material Design guidelines into Kotlin-only simulations.
+- Managing collections and filtering data efficiently.
+
+## My Choices
+- I used data classes to represent structured information (products).
+- I simulated list scrolling and click listeners in Kotlin console output.
+- I represented Material Design concepts with text-based simulations.
+
+## Outcome
+Unit 3 helped me connect Kotlin fundamentals with UI concepts.  
+Even without Android Studio, I practiced the logic behind lists, click listeners, and design principles, preparing me for real Android UI development.
