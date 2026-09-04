@@ -1,0 +1,21 @@
+# Reflection - Unit 4: Navigation and App Architecture
+
+## What I Learned
+- How to explain activities and their lifecycles.
+- The basics of modern Android architecture using ViewModels and StateFlow.
+- How navigation works between multiple screens.
+- Principles of adaptive and responsive design for different screen sizes.
+
+## Challenges
+- Understanding StateFlow and UDF patterns required careful study.
+- Simulating navigation outside Android Studio was limited.
+- Responsive design concepts were new and required practice.
+
+## My Choices
+- I used Kotlin-only simulations to practice architecture and navigation logic.
+- I represented adaptive UI with simple console outputs for different screen sizes.
+- I focused on clean, modular code to reflect architecture principles.
+
+## Outcome
+Unit 4 helped me connect Kotlin logic with Android architecture concepts.  
+I practiced ViewModel, state management, navigation, and responsive design, preparing me for full Android app development projects.
