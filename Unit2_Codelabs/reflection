@@ -1,1 +1,21 @@
+# Reflection - Unit 2: Building App UI
+
+## What I Learned
+- How to use conditionals, classes, function types, and lambda expressions in Kotlin.
+- The concept of handling user actions (like button clicks).
+- How state can be used to calculate and update values, such as in a tip calculator.
+
+## Challenges
+- Understanding lambda expressions and function types required practice.
+- Simulating UI interactions in pure Kotlin was limited compared to Android Studio.
+- Translating logic into user interface behavior was a new skill.
+
+## My Choices
+- I wrote Kotlin-only simulations for button clicks and state handling to practice logic outside Android Studio.
+- I used simple examples (score evaluation, tip calculator) to reinforce fundamentals.
+- I focused on clean, readable code with comments.
+
+## Outcome
+Unit 2 strengthened my Kotlin fundamentals and introduced me to interactive app concepts.  
+Even without Android Studio UI, I practiced the logic behind buttons and state, preparing me for full app development in later units.
 
