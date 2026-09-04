@@ -1,0 +1,72 @@
+# Unit 3: Display Lists and Use Material Design
+
+This folder documents my work for **Unit 3: Display Lists and Use Material Design**, part of my Android development portfolio.  
+The unit is structured around three pathways: **More Kotlin Fundamentals**, **Build a Scrollable List**, and **Build Beautiful Apps with Material Design**.  
+The total duration for this unit is approximately 15 hours, focusing on lists, user interaction, and modern UI design.
+
+---
+
+## Pathway 1: More Kotlin Fundamentals
+I learned:
+- How to use **data classes** to represent structured data.
+- How to work with **collections** (lists, filters, maps).
+- How to write functions that process and display data.
+
+**Outcome:**  
+I can now represent and manipulate complex data in Kotlin, which is essential for apps that display lists.
+
+---
+
+## Pathway 2: Build a Scrollable List
+I practiced:
+- Creating a list of items (text and images).
+- Simulating a scrollable list in Kotlin console output.
+- Adding **click listeners** to respond to user actions.
+
+**Outcome:**  
+I understood the logic behind scrollable lists and user interaction, preparing me for Android’s RecyclerView and Compose.
+
+---
+
+## Pathway 3: Build Beautiful Apps
+I explored:
+- **Material Design principles**: colors, typography, shapes, accessibility.
+- How design choices affect user experience.
+- Simulating design elements in Kotlin-only form.
+
+**Outcome:**  
+I learned how to make apps more intuitive and visually appealing by applying Material Design guidelines.
+
+---
+
+## Reflection
+Completing Unit 3 helped me:
+- Strengthen my Kotlin skills with data classes and collections.
+- Understand the logic of lists and user interaction.
+- Appreciate the importance of Material Design in building modern apps.
+
+**Challenges faced:**
+- Translating UI concepts into Kotlin-only simulations.
+- Understanding accessibility best practices.
+- Managing structured data efficiently.
+
+**My choices:**
+- I used simple product examples to demonstrate data classes.
+- I simulated list scrolling and click listeners in console output.
+- I represented Material Design concepts with text-based simulations.
+
+---
+
+## Contents of This Folder
+- **Badge.png** → Screenshot of my achievement badge for Unit 3.
+- **Code/** → Kotlin practice files:
+  - `KotlinAdvanced.kt` → Data classes, collections, functions.
+  - `ScrollableListDemo.kt` → Scrollable list simulation with click listeners.
+  - `MaterialDesignDemo.kt` → Material Design simulation.
+- **Reflection.md** → Notes on what I learned, challenges, and outcomes.
+
+---
+
+## Conclusion
+Unit 3 represents the step from basic app logic to **structured data and design principles**.  
+It combines Kotlin fundamentals with UI interaction and Material Design, preparing me for Unit 4 (Lifecycle Awareness) and full Android app development.
