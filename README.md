@@ -47,4 +47,7 @@ The portfolio includes achievement badges, Kotlin practice code, reflection note
 - **Unit 4:** Connected Kotlin logic with modern Android architecture, navigation, and responsive design.  
 
 ---
-
+## 🎯 Conclusion
+This portfolio demonstrates my journey from **basic Kotlin programming** to **modern Android app architecture**.  
+It highlights my ability to practice coding logic outside Android Studio while preparing for full app development in group projects.  
+By completing all four units, I have built a strong foundation in Kotlin, Android SDK principles, UI design, and responsive architecture.
